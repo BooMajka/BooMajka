@@ -1,4 +1,4 @@
-![alt text](https://github.com/BooMajka/BooMajka/blob/8368675e85b78885bdd731f553a012820bd39d3c/me.png?raw=true)
+![alt text](https://github.com/BooMajka/BooMajka/blob/8368675e85b78885bdd731f553a012820bd39d3c/me.png?raw=true | width=100)
 
 
 Hi, I'm Maria Booth 👋
