@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/BooMajka/BooMajka/BooMajka/me.png">
+<img src="https://raw.githubusercontent.com/BooMajka/BooMajka/me.png">
 
 Hi, I'm Maria Booth 👋
 
