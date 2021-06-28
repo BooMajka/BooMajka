@@ -1,5 +1,5 @@
-![alt text](https://github.com/BooMajka/BooMajka/main]/me.png?raw=true)
-<img src="https://raw.githubusercontent.com/BooMajka/BooMajka/me.png">
+![alt text](https://github.com/BooMajka/BooMajka/blob/8368675e85b78885bdd731f553a012820bd39d3c/me.png?raw=true)
+
 
 Hi, I'm Maria Booth 👋
 
