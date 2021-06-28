@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/BooMajka/BooMajka/blob/8368675e85b78885bdd731f553a012820bd39d3c/me.png "Header")]
+![Header](https://github.com/BooMajka/BooMajka/blob/8368675e85b78885bdd731f553a012820bd39d3c/me.png "Header")
 
 
 Hi, I'm Maria Booth 👋
